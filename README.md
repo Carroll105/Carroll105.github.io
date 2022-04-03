@@ -30,7 +30,7 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 **9/10/2021** Join in Shanghai Jiao Tong University!
 
 # Publications
-1.Jinpu Cai, Yuyang Xu, Wen Zhang, Shiying Ding, Yuewei Sun, Jingyi Lyu, Meiyu Duan, Shuai Liu, Lan Huang, Fengfeng Zhou. “A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, in Oxford _**Briefings in Bioinformatics**_(IF= 11.622), 2020.10. [link](https://academic.oup.com/bib/article/22/4/bbaa253/5921981?login=true)
+1.Jinpu Cai, Yuyang Xu, Wen Zhang, Shiying Ding, Yuewei Sun, Jingyi Lyu, Meiyu Duan, Shuai Liu, Lan Huang, Fengfeng Zhou. “A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, in Oxford _**Briefings in Bioinformatics**_(IF= 11.622), 2021.10. [link](https://academic.oup.com/bib/article/22/4/bbaa253/5921981?login=true)
 
 2.Fengxin Li, Ziye Luo, Jingyu Huang, Lingzhan Wang, Jinpu Cai, Yongping Huang. “AlTwo: Vehicle Recognition in Foggy Weather Based on Two-Step Recognition Algorithm”, in _**International Symposium on Neural Networks (ISNN 2020)**_, 2020.7.[link](https://link.springer.com/chapter/10.1007/978-3-030-64221-1_12)
 
