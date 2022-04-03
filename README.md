@@ -47,18 +47,18 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 3. Member of the Chinese Engineering Intelligence Society
 
 # Scholarship 
-1.National scholarship
+1. National scholarship
 
-2.Samsung scholarship
+2. Samsung scholarship
 
-3.Qianxin scholarship
+3. Qianxin scholarship
 
 # Honors
-Shortlisted as one of the top ten university students of Jilin University
+1. Shortlisted as one of the top ten university students of Jilin University
 
-Outstanding student of Jilin Unversity
+2. Outstanding student of Jilin Unversity
 
-Excellent Student Leader of Jilin University
+3. Excellent Student Leader of Jilin University
 
 # Software
 1. ReGear: Comprehensive comparison of methylation site signature levels with regression-based gene-level methylation signature estimation
