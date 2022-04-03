@@ -24,7 +24,9 @@ Now i am a PhD candidate in Shanghai Jiaotong Unversity supervised by Prof. Hong
 # News
 
 **9/10/2022**Attend “第一届智能健康与生物信息学会议”
+
 **9/10/2022**Attend "第十届全国生物信息与系统生物学年会"
+
 **9/10/2021** Join in Shanghai Jiaotong Unversity!
 
 # Publications
@@ -51,7 +53,9 @@ Now i am a PhD candidate in Shanghai Jiaotong Unversity supervised by Prof. Hong
 
 # Honors
 Shortlisted as one of the top ten university students of Jilin University
+
 Outstanding student of Jilin Unversity
+
 Excellent Student Leader of Jilin University
 
 # Software
@@ -64,11 +68,17 @@ Excellent Student Leader of Jilin University
 
 # Skills
 • C/C++ Programming
+
 • Java
+
 • Pthread 
+
 • PyTorch
+
 • Keras
+
 • Python & Shell
+
 • HTML & PHP
 
 
