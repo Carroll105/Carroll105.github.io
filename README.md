@@ -5,9 +5,9 @@
 
 **Jinpu Cai (蔡金蒲)**
 
-Shanghai Jiaotong Unversity
+Shanghai Jiao Tong University
 
-**E-mail: jinpu.cai@sjtu.edu.cn/jinpucai99@gmail.com** 
+**E-mail: jinpu.cai@sjtu.edu.cn / jinpucai99@gmail.com** 
 
 
 Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong University Joint Institute supervised by Prof. Hongyi Xin. I got my bachelor degress in Jilin Unversity supervised by Prof. Fengfeng Zhou. My research interests includes: Bioinformatic and Deep learning.
@@ -16,7 +16,7 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 # Education and Work
 2017 - 2021 Jilin Unversity
 
-2021 - Now Shanghai Jiaotong Unversity
+2021 - Now Shanghai Jiao Tong University
 
 2021 JD Technology, Intern.
 
@@ -27,7 +27,7 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 
 **9/10/2022** Attend "第十届全国生物信息与系统生物学年会"
 
-**9/10/2021** Join in Shanghai Jiaotong Unversity!
+**9/10/2021** Join in Shanghai Jiao Tong University!
 
 # Publications
 1.Jinpu Cai, Yuyang Xu, Wen Zhang, Shiying Ding, Yuewei Sun, Jingyi Lyu, Meiyu Duan, Shuai Liu, Lan Huang, Fengfeng Zhou. “A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, in Oxford _**Briefings in Bioinformatics**_(IF= 11.622), 2020.10. [link](https://academic.oup.com/bib/article/22/4/bbaa253/5921981?login=true)
