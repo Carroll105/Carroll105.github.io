@@ -23,9 +23,9 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 
 # News
 
-**9/10/2022** Attend “第一届智能健康与生物信息学会议”
+**3/25/2022** Attend “第一届智能健康与生物信息学会议”
 
-**9/10/2022** Attend "第十届全国生物信息与系统生物学年会"
+**10/25/2021** Attend "第十届全国生物信息与系统生物学年会"
 
 **9/10/2021** Join in Shanghai Jiao Tong University!
 
