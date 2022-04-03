@@ -1,13 +1,13 @@
 ## Jinpu Cai
 
-
+![image]("IMG_0095.JPG")
 **Jinpu Cai (蔡金蒲)**
 Shanghai Jiaotong Unversity
 
-**email: jinpu.cai@sjtu.edu.cn/jinpucai99@gmail.com** 
+**e-mail: jinpu.cai@sjtu.edu.cn/jinpucai99@gmail.com** 
 
 
-I got my bachelor degress in Jilin Unversity supervised by Prof.Fengfeng Zhou. Now i am a PhD candidate in Shanghai Jiaotong Unversity supervised by Prof.Hongyi Xin. My research interests includes: Bioinformatic and Deep learning.
+Now i am a PhD candidate in Shanghai Jiaotong Unversity supervised by Prof. Hongyi Xin. I got my bachelor degress in Jilin Unversity supervised by Prof. Fengfeng Zhou. My research interests includes: Bioinformatic and Deep learning.
 
 
 # Education and Work
