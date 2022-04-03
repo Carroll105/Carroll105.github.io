@@ -1,6 +1,6 @@
 ## Jinpu Cai
 
-![image](https://github.com/Carroll105/Carroll105.github.io/blob/main/IMG_0095.JPG)
+![image](https://github.com/Carroll105/Carroll105.github.io/raw/main/IMG_0095.JPG)
 
 
 **Jinpu Cai (蔡金蒲)**
