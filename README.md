@@ -37,7 +37,7 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 3.Zijie Tian, Ruihan Sun, Xu Wang, Qi Wang, Jinpu Cai. “Study on the Improved Ac6 Algorithm Based on Table Constraints”，in _**2020 12th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA 2020)**_, 2020.1.[link](https://ieeexplore.ieee.org/abstract/document/9050399?casa_token=WjcEEeDx1AAAAAAA:lsRyVw9-ekBN8q24WHK6Gme2NPaUTDaGDLdx6LCG4Zfs3IQilIDusJKnRR3J5Bzpa1ebtQ)
 
 # Posters
-1.“A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”,"第十届全国生物信息与系统生物学年会“
+1.“A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, "第十届全国生物信息与系统生物学年会“
 
 2.“A machine learning algorithm based on gene level methylation data”, "第一届全国生物信息与系统生物学年会"
 
