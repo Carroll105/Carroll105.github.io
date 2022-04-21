@@ -10,7 +10,7 @@ Shanghai Jiao Tong University
 **E-mail: jinpu.cai@sjtu.edu.cn / jinpucai99@gmail.com** 
 
 
-Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong University Joint Institute supervised by Prof. Hongyi Xin. I got my bachelor degress in Jilin Unversity supervised by Prof. Fengfeng Zhou. My research interests includes: Bioinformatic and Deep learning.
+Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong University Joint Institute supervised by Prof. Hongyi Xin. I got my bachelor degree in Jilin Unversity supervised by Prof. Fengfeng Zhou. My research interests includes: Bioinformatic and Deep learning.
 
 
 # Education and Work
