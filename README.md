@@ -32,14 +32,16 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 # Publications
 1.Jinpu Cai, Yuyang Xu, Wen Zhang, Shiying Ding, Yuewei Sun, Jingyi Lyu, Meiyu Duan, Shuai Liu, Lan Huang, Fengfeng Zhou. “A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, in Oxford _**Briefings in Bioinformatics**_(IF= 11.622), 2021.10. [link](https://academic.oup.com/bib/article/22/4/bbaa253/5921981?login=true)
 
-2.Fengxin Li, Ziye Luo, Jingyu Huang, Lingzhan Wang, Jinpu Cai, Yongping Huang. “AlTwo: Vehicle Recognition in Foggy Weather Based on Two-Step Recognition Algorithm”, in _**International Symposium on Neural Networks (ISNN 2020)**_, 2020.7.[link](https://link.springer.com/chapter/10.1007/978-3-030-64221-1_12)
+2. Qiuyu Lian, Jianzhu Ma, Kui Hua, Ziqi Rong, Jinpu Cai,...,Hongyi Xin."Total-mRNA-Aware Analysis for Droplet-Based Single Cell Sequencing"(preprint), 2022.10. [link](https://www.researchsquare.com/article/rs-2211167/v1)
 
-3.Zijie Tian, Ruihan Sun, Xu Wang, Qi Wang, Jinpu Cai. “Study on the Improved Ac6 Algorithm Based on Table Constraints”，in _**2020 12th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA 2020)**_, 2020.1.[link](https://ieeexplore.ieee.org/abstract/document/9050399?casa_token=WjcEEeDx1AAAAAAA:lsRyVw9-ekBN8q24WHK6Gme2NPaUTDaGDLdx6LCG4Zfs3IQilIDusJKnRR3J5Bzpa1ebtQ)
+3.Fengxin Li, Ziye Luo, Jingyu Huang, Lingzhan Wang, Jinpu Cai, Yongping Huang. “AlTwo: Vehicle Recognition in Foggy Weather Based on Two-Step Recognition Algorithm”, in _**International Symposium on Neural Networks (ISNN 2020)**_, 2020.7.[link](https://link.springer.com/chapter/10.1007/978-3-030-64221-1_12)
+
+4.Zijie Tian, Ruihan Sun, Xu Wang, Qi Wang, Jinpu Cai. “Study on the Improved Ac6 Algorithm Based on Table Constraints”，in _**2020 12th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA 2020)**_, 2020.1.[link](https://ieeexplore.ieee.org/abstract/document/9050399?casa_token=WjcEEeDx1AAAAAAA:lsRyVw9-ekBN8q24WHK6Gme2NPaUTDaGDLdx6LCG4Zfs3IQilIDusJKnRR3J5Bzpa1ebtQ)
 
 # Posters
-1.“A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, "第十届全国生物信息与系统生物学年会“
+1.“A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, NCBB2021
 
-2.“A machine learning algorithm based on gene level methylation data”, "第一届全国生物信息与系统生物学年会"
+2.“A machine learning algorithm based on gene level methylation data”, "INB2021"
 
 # Activities
 1. Youth Committee Member of Shanghai Respiratory Internet of Things Medical Engineering Technology Center
@@ -54,7 +56,7 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 3. Qianxin scholarship
 
 # Honors
-1. Shortlisted as one of the top ten university students of Jilin University
+1. Top ten university students of Jilin University (Finalist)
 
 2. Outstanding student of Jilin Unversity
 
@@ -72,8 +74,6 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 • C/C++ Programming
 
 • Java
-
-• Pthread 
 
 • PyTorch
 
