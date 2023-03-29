@@ -23,16 +23,16 @@ Now i am a PhD candidate in University of Michigan – Shanghai Jiao Tong Univer
 
 # News
 
-**3/25/2022** Attend “第一届智能健康与生物信息学会议”
+**3/25/2022** Attend “INB 2021”
 
-**10/25/2021** Attend "第十届全国生物信息与系统生物学年会"
+**10/25/2021** Attend "NCBB 2021"
 
 **9/10/2021** Join in Shanghai Jiao Tong University!
 
 # Publications
 1.Jinpu Cai, Yuyang Xu, Wen Zhang, Shiying Ding, Yuewei Sun, Jingyi Lyu, Meiyu Duan, Shuai Liu, Lan Huang, Fengfeng Zhou. “A comprehensive comparison of residue-level methylation levels with the regression-based gene-level methylation estimations by ReGear”, in Oxford _**Briefings in Bioinformatics**_(IF= 11.622), 2021.10. [link](https://academic.oup.com/bib/article/22/4/bbaa253/5921981?login=true)
 
-2. Qiuyu Lian, Jianzhu Ma, Kui Hua, Ziqi Rong, Jinpu Cai,...,Hongyi Xin."Total-mRNA-Aware Analysis for Droplet-Based Single Cell Sequencing"(preprint), 2022.10. [link](https://www.researchsquare.com/article/rs-2211167/v1)
+2.Qiuyu Lian, Jianzhu Ma, Kui Hua, Ziqi Rong, Jinpu Cai,...,Hongyi Xin."Total-mRNA-Aware Analysis for Droplet-Based Single Cell Sequencing"(preprint), 2022.10. [link](https://www.researchsquare.com/article/rs-2211167/v1)
 
 3.Fengxin Li, Ziye Luo, Jingyu Huang, Lingzhan Wang, Jinpu Cai, Yongping Huang. “AlTwo: Vehicle Recognition in Foggy Weather Based on Two-Step Recognition Algorithm”, in _**International Symposium on Neural Networks (ISNN 2020)**_, 2020.7.[link](https://link.springer.com/chapter/10.1007/978-3-030-64221-1_12)
 
