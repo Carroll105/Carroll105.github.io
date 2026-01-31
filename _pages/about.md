@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Steven(Jinpu) Cai
+# Steven (Jinpu) Cai
 
 I am a Ph.D. candidate in **Electrical and Computer Engineering** at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Hongyi Xin](https://gift.sjtu.edu.cn/en/faculty/40912). My research sits at the intersection of Single-cell Multi-omics, Information Geometry and Machine Learning.
 

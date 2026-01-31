@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "myself.jpg"
-  name             : "Steven (Jinpu) Cai   (蔡金蒲)"
+  name             : "Steven (Jinpu) Cai"
   pronouns         : # example: "she/her"  
   bio              : "Focusing on Bioinformatics and AI for Drug Discovery and Development."
   location         : "Shanghai, China"
