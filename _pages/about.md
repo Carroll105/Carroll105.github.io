@@ -1,56 +1,61 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Steven(Jinpu) Cai
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Ph.D. candidate in **Electrical and Computer Engineering** at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Hongyi Xin](https://gift.sjtu.edu.cn/en/faculty/40912). My research sits at the intersection of Single-cell Multi-omics, Information Geometry and Machine Learning.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I also received joint training at a hospital as a Ph.D. student at [National Center for Cardiovascular Diseases](https://www.nccd.org.cn/News/Columns/Index/1113), Fuwai Hospital, Peking Union Medical College in China, supervised by [Prof.Shengshou Hu](https://www.fuwaihospital.org/News/Articles/Index/44) and [Prof. Liang Chen](https://www.researchgate.net/profile/Liang-Chen-152). 
+I also collaborated with [Prof. Jessica Jingyi Li](https://www.fredhutch.org/en/faculty-lab-directory/li-jessica-jingyi.html) at Fred Hutchinson Cancer Center and University of Washington. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Currently, I am a Research Intern at the BeOne Institute, [BeOne Medicine](https://beonemedicines.com/), advised by [Dr.Minhong Yan](https://beonemedicines.com.br/leadership/minhong-yan-ph-d/) and [Dr. Wei Gu](https://scholar.google.com/citations?user=Eig3MawAAAAJ&hl=en) ，where I leverage Bioinformatics and Machine Learning to facilitate novel drug target discovery and accelerate translational research in oncology.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My work leverages [Mathematics, Statistics and AI](https://carroll105.github.io/) to uncover hidden patterns in biological data to better understand complex disease mechanisms. I aim to translate these insights into predictive models that support target discovery, therapeutic development, and precision medicine.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**I am always open to academic collaborations.** If you are interested in my research or seeking partnerships in Bio-AI, please feel free to reach out at **jinpu.cai@sjtu.edu.cn**.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
+## 🔥 News
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* **[2026.01]** I successfully passed my **Ph.D. Pre-defense** at Shanghai Jiao Tong University.
+* **[2026.01]** Two papers are accepted by [RECOMB 2026](https://recomb.org/recomb2026/).
+* **[2025.11]** Two papers have been accepted by the [GIW (International Conference on Genome Informatics) 2025](https://www.iscb.org/asia2025/home).
+* **[2025.11]** I joined [BeOne Institute (BeOne Medicine)](https://beonemedicines.com/) as a Research Intern to work on AI-driven drug discovery and translational oncology.
+* **[2025.06]** I started my internship at [Genentech (Roche)](https://www.roche.com/), focusing on multi-modal deep learning for DLBCL biomarker identification.
+* **[2024.08]** Our work won the **Best Paper Award** at the 15th ACM International Conference on Bioinformatics and Computational Biology [(ACM-BCB 2024)](https://hpcc.siat.ac.cn/acm-bcb2024/).
+---
 
-**Markdown generator**
+## 🔬 Research Interests
+* **Bio-AI & Information Geometry:** Developing machine learning algorithms for highly complex biological data.
+* **Single-cell Multi-omics:** Integrating transcriptomic and epigenetic data to identify pathological cell subpopulations and regulatory mechanisms in heart failure.
+* **Precision Medicine:** Discovering novel therapeutic targets and biomarkers through deep learning and multi-modal data integration.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+---
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## 💼 Industry Experience
+* **BeOne Medicine:** Research intern focusing on AI-driven novel drug target discovery and disease mechanism parsing.
+* **Genentech (Roche):** Internship in multi-modal deep learning for DLBCL biomarker identification and survival prediction.
+* **JD Technology:** Internship in financial product recommendation and search algorithm design within the JD Finance App.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+---
+
+## 🌟 Community & Leadership
+* **Scientific Outreach:** Active science blogger on **Zhihu**, sharing cutting-edge research with **6,000+ followers** and **4 million+ views**.
+* **Academic Service:** Reviewer for *Nature Communications* (Co-reviewer), *Briefings in Bioinformatics*, and *IEEE BIBM*.
+* **Leadership:** Youth Committee Member of the Shanghai Respiratory IoT Medical Engineering Center; Former President of the Student Union.
+
+---
+
+## 🏆 Selected Awards & Honors
+* **ACM-SIGBIO Award (2024):** Selected as the **sole global recipient** to deliver a plenary report for outstanding work in bioinformatics and biomedical informatics.
+* **Best Paper Award (2024):** 15th ACM International Conference on Bioinformatics, Computational Biology (ACM-BCB).
+<!-- * **Innovation Gold Medal (2025):** Gold Award in the China International College Students' Innovation Competition (Shanghai Division).
+* **National Scholarship (2018)**.
+* **Honors:** Recognized as an Outstanding Graduate, Samsung Scholarship, and Qi-An-Xin Scholarship recipient. -->
