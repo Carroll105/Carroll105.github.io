@@ -29,6 +29,7 @@ My work leverages [Mathematics, Statistics and AI](https://carroll105.github.io/
 * **[2025.11]** I joined [BeOne Institute (BeOne Medicine)](https://beonemedicines.com/) as a Research Intern to work on AI-driven drug discovery and translational oncology.
 * **[2025.06]** I started my internship at [Genentech (Roche)](https://www.roche.com/), focusing on multi-modal deep learning for DLBCL biomarker identification.
 * **[2024.08]** Our work won the **Best Paper Award** at the 15th ACM International Conference on Bioinformatics and Computational Biology [(ACM-BCB 2024)](https://hpcc.siat.ac.cn/acm-bcb2024/).
+
 ---
 
 ## 🔬 Research Interests
