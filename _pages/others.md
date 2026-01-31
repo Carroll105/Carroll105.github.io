@@ -8,9 +8,8 @@ redirect_from:
 ---
 # Travel & Interests
 
-- Passionate about traveling and exploring different cultures and cities. Enjoy learning from local history, food, and people during trips  
-- View travel as a way to broaden perspectives and inspire new ideas  
-- Aside from traveling, I am also deeply interested in physics.
+- Passionate about traveling and exploring different cultures and cities. Enjoy learning from local history, food, and people during trips
+- Aside from traveling, I am also deeply interested in physics
 
 # Leadership & Professional Experience
 
